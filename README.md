@@ -9,3 +9,8 @@ My work has required high accuracy, strong attention to detail, clear documentat
 I am now applying these strengths to AI training and evaluation roles — reviewing AI-generated outputs for accuracy, completeness, clarity, and usefulness, and providing structured, high-quality feedback.
 
 This portfolio contains sample evaluations that demonstrate how I assess AI responses.
+## Sample Evaluations
+
+- [Sample 1 – Inventory Reconciliation Process](samples/sample-01-inventory-reconciliation.md)
+- [Sample 2 – Goods Receipt Process in SAP](samples/sample-02-goods-receipt.md)
+- [Sample 3 – Handling Stock Discrepancies](samples/sample-03-stock-discrepancy.md)
